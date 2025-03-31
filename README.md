@@ -9,4 +9,5 @@ Version Control: Git + GitHub/GitLab
 
 ## Team members:
 Baigabyl Nurdaulet
+
 Kulmakhanbet Nurbakyt
