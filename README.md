@@ -1,5 +1,5 @@
 # Project
-## Online clothing store named JUST WEAR IT
+## Online delivery food
 
 ## Technologies:
 Front-end: Angular, JavaScript, TypeScript, HTML, SCSS
